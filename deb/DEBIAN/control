@@ -7,4 +7,5 @@ Version: x.y.z-i
 Maintainer: Robert Auer <robert.auer@cloudogu.com>
 Architecture: amd64
 Description: Cloudogu EcoSystem - goss
- Quick and Easy server testing/validation package to use within the Cloudogu EcoSystem
+ Quick and Easy server testing/validation package
+ to use within the Cloudogu EcoSystem
