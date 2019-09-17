@@ -4,7 +4,8 @@ Homepage: https://cloudogu.com
 Standards-Version: 3.9.2
 Package: ces-goss
 Version: x.y.z-i
-Maintainer: Jan Niemann <jan.niemann@cloudogu.com>
+Maintainer: Robert Auer <robert.auer@cloudogu.com>
 Architecture: amd64
 Description: Cloudogu EcoSystem - goss
- Quick and Easy server testing/validation packaged for use within the Cloudogu EcoSystem
+ Quick and Easy server testing/validation package
+ to use within the Cloudogu EcoSystem
