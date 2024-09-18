@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Changed
-- Relicense to AGPL-3.0-only
+- Relicense to AGPL-3.0-only (#3)
 
 ## [v0.3.5-1]
 update to goss 0.3.5
