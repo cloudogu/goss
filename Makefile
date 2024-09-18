@@ -1,6 +1,6 @@
 # Set these to the desired values
 ARTIFACT_ID=ces-goss
-VERSION=0.3.5-1
+VERSION=0.3.5-2
 
 GOSS_UPSTREAM_VERSION=0.3.5
 
