@@ -4,3 +4,6 @@ target/
 # exclude editor backups
 *~
 \#*\#
+
+.idea/
+.code/
